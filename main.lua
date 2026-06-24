@@ -1,7 +1,7 @@
 -- main.lua
 -- Loader: fetches and executes all modules in order
 
-local REPO_RAW = "https://raw.githubusercontent.com/monerro/chud.tk/main//"
+local REPO_RAW = "https://raw.githubusercontent.com/monerro/chud.tk/main/"
 local MODULES = {
 	"config.lua",
 	"utils/helpers.lua",
